@@ -19,11 +19,13 @@ const Welcome = () => (
         }}
       />
       <div>
-        <h1>Welcome to Genki Tenki!</h1>
+        <h1>Welcome to Genki Tenki!</h1>{" "}
+        {/* 元気天気 ("genki tenki") significa "bel tempo"  */}
         <p className="fs-5">
           Golden sunbeam strikes, drops slide down the windowpane — a soft,
           glowing hush.
-        </p>
+        </p>{" "}
+        {/* Questo è un haiku. Dato che li scrivo, mi sembrava carino >u<  */}
       </div>
     </div>
   </Container>
