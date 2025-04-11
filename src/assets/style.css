@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Amarante&display=swap');
+
+html, body {
+    font-family: 'Amarante';
+    overflow-x: hidden;
+    background: radial-gradient(rgb(253, 235, 212), rgb(255, 255, 255));
+}
+
+.custom-navbar, .custom-footer {
+    font-family: 'Amarante', cursive;
+  }
+
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    filter: invert(100%);
+  }
