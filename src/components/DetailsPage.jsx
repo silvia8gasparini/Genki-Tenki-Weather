@@ -39,7 +39,12 @@ export default function DetailsPage() {
   }, [city]);
 
   return (
-    <div className="d-flex flex-column min-vh-100">
+    <div
+      className="d-flex flex-column"
+      style={{
+        maxWidth: "100%",
+      }}
+    >
       <CustomNavbar tema="light" />
       <main className="flex-grow-1 py-2">
         <Container>
@@ -55,7 +60,7 @@ export default function DetailsPage() {
             <Row className="d-flex align-items-center mb-2">
               <div className="d-flex align-items-center justify-content-center flex-wrap">
                 <img
-                  src="/public/totoro1.png"
+                  src="/totoro1.png"
                   className="rounded-circle py-2"
                   alt="totoro"
                   style={{

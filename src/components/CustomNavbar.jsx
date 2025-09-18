@@ -28,7 +28,7 @@ const CustomNavbar = function () {
       expand="lg"
       style={{ background: "rgb(242, 242,242)" }}
     >
-      <Container fluid={true}>
+      <Container fluid>
         <Navbar.Brand as={Link} to="/">
           <img src="/totorologo.svg" alt="logo" style={{ height: "80px" }} />
         </Navbar.Brand>

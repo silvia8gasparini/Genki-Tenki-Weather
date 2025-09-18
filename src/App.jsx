@@ -4,6 +4,7 @@ import HomePage from "./components/HomePage";
 import DetailsPage from "./components/DetailsPage";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./assets/style.css";
+import "./App.css";
 
 function App() {
   return (
