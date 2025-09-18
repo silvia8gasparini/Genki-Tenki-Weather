@@ -12,7 +12,7 @@ const Welcome = () => (
     <div className="d-flex align-items-center justify-content-center gap-5 flex-wrap">
       <img
         src="/totoro.JPG"
-        className="rounded-circle py-3 me-5"
+        className="rounded-circle py-3 mb-3 mb-md-0"
         alt="totoro"
         style={{
           height: "250px",

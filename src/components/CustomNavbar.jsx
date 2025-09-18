@@ -86,7 +86,7 @@ const CustomNavbar = function () {
               </Button>
             </Form>
           </div>
-          <Button variant="outline-warning" type="submit">
+          <Button className="my-3" variant="outline-warning" type="submit">
             Sign In
           </Button>
           <NavDropdown
