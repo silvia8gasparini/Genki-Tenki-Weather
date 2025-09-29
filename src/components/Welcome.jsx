@@ -9,10 +9,10 @@ const Welcome = () => (
       color: "orange",
     }}
   >
-    <div className="d-flex align-items-center justify-content-center gap-5 flex-wrap">
+    <div className="d-flex align-items-center justify-content-center gap-1 flex-wrap">
       <img
         src="/totoro.JPG"
-        className="rounded-circle py-3 mb-3 mb-md-0"
+        className="rounded-circle py-3 mb-3 mb-md-0 me-lg-5"
         alt="totoro"
         style={{
           height: "250px",
@@ -20,7 +20,6 @@ const Welcome = () => (
       />
       <div>
         <h1>Welcome to Genki Tenki!</h1>{" "}
-        {/* 元気天気 ("genki tenki") significa "bel tempo"  */}
         <p className="fs-5">
           Golden sunbeam strikes, drops slide down the windowpane — a soft,
           glowing hush.
