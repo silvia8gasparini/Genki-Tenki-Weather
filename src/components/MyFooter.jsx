@@ -1,5 +1,4 @@
 import { Container } from "react-bootstrap";
-import { Facebook, Instagram, TwitterX, Youtube } from "react-bootstrap-icons";
 
 const MyFooter = () => (
   <footer
@@ -7,11 +6,7 @@ const MyFooter = () => (
     style={{ background: "rgb(242, 242,242)" }}
   >
     <Container className="text-center mt-4">
-      <Facebook className="mb-3 me-2" color="dark" />
-      <Instagram className="mb-3 me-2" color="#dark" />
-      <TwitterX className="mb-3 me-2" color="#dark" />
-      <Youtube className="mb-3 me-2" color="#dark" />
-      <p>&copy; {new Date().getFullYear()} Genki Tenki. All rights reserved.</p>
+      <p>&copy; {new Date().getFullYear()} Genki Tenki - All rights reserved</p>
     </Container>
   </footer>
 );
