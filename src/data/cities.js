@@ -1,19 +1,22 @@
 export const cities = [
-   {
+  {
     name: "Algiers",
-    image: "https://thumbs.dreamstime.com/b/algiers-view-capital-city-algeria-91099521.jpg",
+    image:
+      "https://bunny-wp-pullzone-nfqzsydbnl.b-cdn.net/wp-content/uploads/2024/02/cezayir-notlari.jpg",
     continent: "Africa",
     country: "Algeria",
   },
   {
     name: "Cairo",
-    image: "https://en3dias.net/wp-content/uploads/2022/09/en-cuanto-tiempo-se-ve-el-cairo.jpg",
+    image:
+      "https://en3dias.net/wp-content/uploads/2022/09/en-cuanto-tiempo-se-ve-el-cairo.jpg",
     continent: "Africa",
     country: "Egypt",
   },
   {
     name: "Addis Ababa",
-    image: "https://content.r9cdn.net/rimg/dimg/e9/d3/52a1c197-city-31584-165624937c9.jpg?width=1366&height=768&xhint=1972&yhint=1277&crop=true",
+    image:
+      "https://content.r9cdn.net/rimg/dimg/e9/d3/52a1c197-city-31584-165624937c9.jpg?width=1366&height=768&xhint=1972&yhint=1277&crop=true",
     continent: "Africa",
     country: "Ethiopia",
   },
@@ -25,7 +28,8 @@ export const cities = [
   },
   {
     name: "Nairobi",
-    image: "https://www.worldtravelguide.net/wp-content/uploads/2017/03/shu-Kenya-Nairobi-549814942-Sopotnicki-copy.jpg",
+    image:
+      "https://www.worldtravelguide.net/wp-content/uploads/2017/03/shu-Kenya-Nairobi-549814942-Sopotnicki-copy.jpg",
     continent: "Africa",
     country: "Kenya",
   },
@@ -37,31 +41,36 @@ export const cities = [
   },
   {
     name: "Antananarivo",
-    image: "https://cdn.britannica.com/59/141359-050-98A09B4F/Antananarivo-Madagascar.jpg",
+    image:
+      "https://cdn.britannica.com/59/141359-050-98A09B4F/Antananarivo-Madagascar.jpg",
     continent: "Africa",
     country: "Madagascar",
   },
   {
     name: "Rabat",
-    image: "https://media.cntraveler.com/photos/65dfc055e781ac22c9a500e9/16:9/w_2560%2Cc_limit/GettyImages-1450546518.jpg",
+    image:
+      "https://media.cntraveler.com/photos/65dfc055e781ac22c9a500e9/16:9/w_2560%2Cc_limit/GettyImages-1450546518.jpg",
     continent: "Africa",
     country: "Morocco",
   },
   {
     name: "Abuja",
-    image: "http://naijalifemagazine.com/blog/wp-content/uploads/2018/04/abuja-skyline-07-1.jpg",
+    image:
+      "http://naijalifemagazine.com/blog/wp-content/uploads/2018/04/abuja-skyline-07-1.jpg",
     continent: "Africa",
     country: "Nigeria",
   },
   {
     name: "Kigali",
-    image: "https://petitfute.twic.pics/medias/photo/originale/9f/1e/321663-kigali-vue-sur-kigali.jpg",
+    image:
+      "https://petitfute.twic.pics/medias/photo/originale/9f/1e/321663-kigali-vue-sur-kigali.jpg",
     continent: "Africa",
     country: "Rwanda",
   },
   {
     name: "Dakar",
-    image: "http://3.bp.blogspot.com/-9BhYY_Tg0fE/UfvmiMm5vuI/AAAAAAAAbKs/fJ0TWvKloig/s1600/Dakar,+Senegal.jpg",
+    image:
+      "http://3.bp.blogspot.com/-9BhYY_Tg0fE/UfvmiMm5vuI/AAAAAAAAbKs/fJ0TWvKloig/s1600/Dakar,+Senegal.jpg",
     continent: "Africa",
     country: "Senegal",
   },
@@ -73,55 +82,64 @@ export const cities = [
   },
   {
     name: "Khartoum",
-    image: "http://1.bp.blogspot.com/-S9g6UECqR9I/UcL4dI7-_6I/AAAAAAAAaKk/IsVFi3zE-uY/s1600/Khartoum,+Sudan.jpg",
+    image:
+      "http://1.bp.blogspot.com/-S9g6UECqR9I/UcL4dI7-_6I/AAAAAAAAaKk/IsVFi3zE-uY/s1600/Khartoum,+Sudan.jpg",
     continent: "Africa",
     country: "Sudan",
   },
   {
     name: "Dodoma",
-    image: "https://www.thesouthafrican.com/wp-content/uploads/2023/06/Dodoma.jpg",
+    image:
+      "https://www.thesouthafrican.com/wp-content/uploads/2023/06/Dodoma.jpg",
     continent: "Africa",
     country: "Tanzania",
   },
   {
     name: "Kampala",
-    image: "https://cdn.budgetyourtrip.com/images/photos/headerphotos/large/uganda_kampala.jpg",
+    image:
+      "https://exploreuganda.com/wp-content/uploads/2024/10/kampala-road.jpg",
     continent: "Africa",
     country: "Uganda",
   },
   {
     name: "Lusaka",
-    image: "https://travelshelper.com/wp-content/uploads/2021/11/Lusaka-Travel-Guide-Travel-S-Helper.jpg",
+    image:
+      "https://travelshelper.com/wp-content/uploads/2021/11/Lusaka-Travel-Guide-Travel-S-Helper.jpg",
     continent: "Africa",
     country: "Zambia",
   },
   {
     name: "Harare",
-    image: "https://www.wohin-und-wann.de/site/images/illustration/harare_567.jpg",
+    image:
+      "https://www.wohin-und-wann.de/site/images/illustration/harare_567.jpg",
     continent: "Africa",
     country: "Zimbabwe",
   },
   {
     name: "Kabul",
-    image: "https://geosfera.info/wp-content/uploads/2024/03/Kabul-Afghanistan.webp",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/4/43/Kabul%2C_Afghanistan_view.jpg",
     continent: "Asia",
     country: "Afghanistan",
   },
   {
     name: "Yerevan",
-    image: "https://assets.micontenthub.com/traveloffers/traveler-editorials/a-guide-to-armenia-what-to-do-and-where-to-stay/Yerevan_mSgZP1XVo.jpg?tr=w-1920",
+    image:
+      "https://assets.micontenthub.com/traveloffers/traveler-editorials/a-guide-to-armenia-what-to-do-and-where-to-stay/Yerevan_mSgZP1XVo.jpg?tr=w-1920",
     continent: "Asia",
     country: "Armenia",
   },
   {
     name: "Baku",
-    image: "https://ww3.rics.org/content/dam/rics/images/modus/built-environment/february-2023/baku/header_baku-cityscape_baku_modus_feb-23_SHUTTERSTOCK.jpg",
+    image:
+      "https://ww3.rics.org/content/dam/rics/images/modus/built-environment/february-2023/baku/header_baku-cityscape_baku_modus_feb-23_SHUTTERSTOCK.jpg",
     continent: "Asia",
     country: "Azerbaijan",
   },
   {
     name: "Beijing",
-    image: "https://dxcdkie9wax5t.cloudfront.net/wp-content/uploads/2016/12/16034505/Beijing.jpg",
+    image:
+      "https://dxcdkie9wax5t.cloudfront.net/wp-content/uploads/2016/12/16034505/Beijing.jpg",
     continent: "Asia",
     country: "China",
   },
@@ -133,73 +151,85 @@ export const cities = [
   },
   {
     name: "New Delhi",
-    image: "https://cdn.getyourguide.com/img/location/533591d4b943b.jpeg/88.jpg",
+    image:
+      "https://cdn.getyourguide.com/img/location/533591d4b943b.jpeg/88.jpg",
     continent: "Asia",
     country: "India",
   },
   {
     name: "Jakarta",
-    image: "https://media.routard.com/image/86/8/jakarta-ville-indonesie.1511868.jpeg",
+    image:
+      "https://media.routard.com/image/86/8/jakarta-ville-indonesie.1511868.jpeg",
     continent: "Asia",
     country: "Indonesia",
   },
   {
     name: "Tehran",
-    image: "https://wallpapers.com/images/hd/tehran-business-district-jgvtxbs1ptv0hayf.jpg",
+    image:
+      "https://wallpapers.com/images/hd/tehran-business-district-jgvtxbs1ptv0hayf.jpg",
     continent: "Asia",
     country: "Iran",
   },
   {
     name: "Baghdad",
-    image: "https://cdn.britannica.com/01/154501-050-1D1B61CE/Baghdad-city-Iraq-Tigris-River.jpg",
+    image:
+      "https://cdn.britannica.com/01/154501-050-1D1B61CE/Baghdad-city-Iraq-Tigris-River.jpg",
     continent: "Asia",
     country: "Iraq",
   },
   {
     name: "Tokyo",
-    image: "https://images.ctfassets.net/rc3dlxapnu6k/28GKCKhVuJ909lfbAJFORf/581e1461667b686e3863a8cac6e05009/Japan__Tokio__3_.jpg?w=2309&h=1299&fl=progressive&q=50&fm=jpg",
+    image:
+      "https://images.ctfassets.net/rc3dlxapnu6k/28GKCKhVuJ909lfbAJFORf/581e1461667b686e3863a8cac6e05009/Japan__Tokio__3_.jpg?w=2309&h=1299&fl=progressive&q=50&fm=jpg",
     continent: "Asia",
     country: "Japan",
   },
   {
     name: "Amman",
-    image: "https://www.halalholidaypackages.co.uk/wp-content/uploads/2018/02/Amman-1.jpg",
+    image:
+      "https://www.halalholidaypackages.co.uk/wp-content/uploads/2018/02/Amman-1.jpg",
     continent: "Asia",
     country: "Jordan",
   },
   {
     name: "Astana",
-    image: "https://eurasia.travel/wp-content/uploads/2024/10/Astana-Kazakhstan.jpg",
+    image:
+      "https://eurasia.travel/wp-content/uploads/2024/10/Astana-Kazakhstan.jpg",
     continent: "Asia",
     country: "Kazakhstan",
   },
   {
     name: "Beirut",
-    image: "https://facts.net/wp-content/uploads/2023/07/42-facts-about-beirut-1688790760.jpeg",
+    image:
+      "https://facts.net/wp-content/uploads/2023/07/42-facts-about-beirut-1688790760.jpeg",
     continent: "Asia",
     country: "Lebanon",
   },
   {
     name: "Kuala Lumpur",
-    image: "https://tse3.mm.bing.net/th/id/OIP.cq-WKBeX4aFtzR1YTJSqRAHaE8?pid=Api",
+    image:
+      "https://tse3.mm.bing.net/th/id/OIP.cq-WKBeX4aFtzR1YTJSqRAHaE8?pid=Api",
     continent: "Asia",
     country: "Malaysia",
   },
   {
     name: "Kathmandu",
-    image: "https://mediaim.expedia.com/localexpert/624548/5703eb1e-8d94-4e47-ac5f-335f03f4dcf6.jpg",
+    image:
+      "https://mediaim.expedia.com/localexpert/624548/5703eb1e-8d94-4e47-ac5f-335f03f4dcf6.jpg",
     continent: "Asia",
     country: "Nepal",
   },
   {
     name: "Islamabad",
-    image: "https://www.viajes.com/wp-content/uploads/destinos/la-mezquita-nacional-de-pakist%C3%A1n-mezquita-de-faisal-islamabad-pakist%C3%A1n-scaled.jpg",
+    image:
+      "https://www.viajes.com/wp-content/uploads/destinos/la-mezquita-nacional-de-pakist%C3%A1n-mezquita-de-faisal-islamabad-pakist%C3%A1n-scaled.jpg",
     continent: "Asia",
     country: "Pakistan",
   },
   {
     name: "Ramallah",
-    image: "https://cdn.getyourguide.com/img/location/5a086bbeba507.jpeg/88.jpg",
+    image:
+      "https://cdn.getyourguide.com/img/location/5a086bbeba507.jpeg/88.jpg",
     continent: "Asia",
     country: "Palestine",
   },
@@ -211,55 +241,64 @@ export const cities = [
   },
   {
     name: "Singapore",
-    image: "https://evasion-online.com/image-photo/singapour/singapour-smart-city-mobilite-Les-Smart-Grids.jpg",
+    image:
+      "https://evasion-online.com/image-photo/singapour/singapour-smart-city-mobilite-Les-Smart-Grids.jpg",
     continent: "Asia",
     country: "Singapore",
   },
   {
     name: "Seoul",
-    image: "https://static.independent.co.uk/2022/12/29/14/iStock-464629385.jpg",
+    image:
+      "https://static.independent.co.uk/2022/12/29/14/iStock-464629385.jpg",
     continent: "Asia",
     country: "South Korea",
   },
   {
     name: "Damascus",
-    image: "https://cdn.britannica.com/91/177991-050-D8667CD8/Umayyad-Mosque-Damascus.jpg",
+    image:
+      "https://cdn.britannica.com/91/177991-050-D8667CD8/Umayyad-Mosque-Damascus.jpg",
     continent: "Asia",
     country: "Syria",
   },
   {
     name: "Bangkok",
-    image: "https://www.roadaffair.com/wp-content/uploads/2017/10/bangkok-thailand-shutterstock_300284237.jpg",
+    image:
+      "https://www.roadaffair.com/wp-content/uploads/2017/10/bangkok-thailand-shutterstock_300284237.jpg",
     continent: "Asia",
     country: "Thailand",
   },
   {
     name: "Ankara",
-    image: "http://www.nationsonline.org/gallery/Turkey/Kocatepe-mosque-Ankara.jpg",
+    image:
+      "http://www.nationsonline.org/gallery/Turkey/Kocatepe-mosque-Ankara.jpg",
     continent: "Asia",
     country: "Turkey",
   },
   {
     name: "Hanoi",
-    image: "https://a.cdn-hotels.com/gdcs/production144/d1394/a304783d-6dc9-4bb2-9239-d124a16a154e.jpg",
+    image:
+      "https://a.cdn-hotels.com/gdcs/production144/d1394/a304783d-6dc9-4bb2-9239-d124a16a154e.jpg",
     continent: "Asia",
     country: "Vietnam",
   },
   {
     name: "Tashkent",
-    image: "https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://www.travelsmantra.com/site/wp-content/uploads/2017/05/tash_main_06.jpg",
+    image:
+      "https://cdn.shortpixel.ai/client/q_glossy,ret_img/https://www.travelsmantra.com/site/wp-content/uploads/2017/05/tash_main_06.jpg",
     continent: "Asia",
     country: "Uzbekistan",
   },
   {
     name: "Sana'a",
-    image: "https://cdn.britannica.com/49/139549-050-D1B8F018/Sanaa-Al-Salih-Mosque-Yemen-background.jpg",
+    image:
+      "https://cdn.britannica.com/49/139549-050-D1B8F018/Sanaa-Al-Salih-Mosque-Yemen-background.jpg",
     continent: "Asia",
     country: "Yemen",
   },
-   {
+  {
     name: "Tirana",
-    image: "https://www.vol-direct.net/wp-content/uploads/2023/06/Illustration-en-image-de-la-ville-de-Tirana-1200x686.jpg",
+    image:
+      "https://www.vol-direct.net/wp-content/uploads/2023/06/Illustration-en-image-de-la-ville-de-Tirana-1200x686.jpg",
     continent: "Europe",
     country: "Albania",
   },
@@ -271,19 +310,22 @@ export const cities = [
   },
   {
     name: "Brussels",
-    image: "https://www.explore.com/img/gallery/the-best-museums-in-brussels/intro-1686603501.jpg",
+    image:
+      "https://www.explore.com/img/gallery/the-best-museums-in-brussels/intro-1686603501.jpg",
     continent: "Europe",
     country: "Belgium",
   },
   {
     name: "Sofia",
-    image: "https://i.natgeofe.com/n/ed5dd8fb-d73b-4770-b7f1-ed9a4227d852/gettyimages-1205570855.jpg",
+    image:
+      "https://i.natgeofe.com/n/ed5dd8fb-d73b-4770-b7f1-ed9a4227d852/gettyimages-1205570855.jpg",
     continent: "Europe",
     country: "Bulgaria",
   },
   {
     name: "Zagreb",
-    image: "https://www.solosophie.com/wp-content/uploads/2022/09/zagreb-croatia_1906881223.jpeg.webp",
+    image:
+      "https://www.solosophie.com/wp-content/uploads/2022/09/zagreb-croatia_1906881223.jpeg.webp",
     continent: "Europe",
     country: "Croatia",
   },
@@ -295,25 +337,29 @@ export const cities = [
   },
   {
     name: "Copenhagen",
-    image: "http://fayyaztravels.com/uploads/images/place/Copenhagen.jpg",
+    image:
+      "https://copenaghen.it/wp-content/uploads/2022/09/copenaghen-homepage.jpg",
     continent: "Europe",
     country: "Denmark",
   },
   {
     name: "Tallinn",
-    image: "https://www.thebumpercrew.com/wp-content/uploads/2022/08/20220820-Things-to-Do-in-Tallinn-002.jpeg",
+    image:
+      "https://www.thebumpercrew.com/wp-content/uploads/2022/08/20220820-Things-to-Do-in-Tallinn-002.jpeg",
     continent: "Europe",
     country: "Estonia",
   },
   {
     name: "Helsinki",
-    image: "https://www.binavibe.net/wp-content/uploads/2024/01/helsinki-que-faire-et-voir.jpg",
+    image:
+      "https://www.binavibe.net/wp-content/uploads/2024/01/helsinki-que-faire-et-voir.jpg",
     continent: "Europe",
     country: "Finland",
   },
   {
     name: "Paris",
-    image: "https://windows10spotlight.com/wp-content/uploads/2023/01/f1207e0a3c7d963e219c16c61dc9c25c.jpg",
+    image:
+      "https://windows10spotlight.com/wp-content/uploads/2023/01/f1207e0a3c7d963e219c16c61dc9c25c.jpg",
     continent: "Europe",
     country: "France",
   },
@@ -325,25 +371,29 @@ export const cities = [
   },
   {
     name: "Athens",
-    image: "https://tourscanner.com/blog/wp-content/uploads/2023/06/best-tourist-attractions-in-Athens.jpg",
+    image:
+      "https://tourscanner.com/blog/wp-content/uploads/2023/06/best-tourist-attractions-in-Athens.jpg",
     continent: "Europe",
     country: "Greece",
   },
   {
     name: "Budapest",
-    image: "https://www.tripsavvy.com/thmb/b-hvgyReLebGDjPfkV4FS4E9sqI=/2121x1414/filters:fill(auto,1)/the-hungarian-parliament-on-the-danube-river-at-sunset-in-budapest--hungary-945207010-23afbc9012d54bc4bb7c8a1f8c90075b.jpg",
+    image:
+      "https://www.tripsavvy.com/thmb/b-hvgyReLebGDjPfkV4FS4E9sqI=/2121x1414/filters:fill(auto,1)/the-hungarian-parliament-on-the-danube-river-at-sunset-in-budapest--hungary-945207010-23afbc9012d54bc4bb7c8a1f8c90075b.jpg",
     continent: "Europe",
     country: "Hungary",
   },
   {
     name: "Reykjavik",
-    image: "https://cdn.britannica.com/71/73371-050-9DFAEC1E/Reykjavik-Iceland.jpg",
+    image:
+      "https://cdn.britannica.com/71/73371-050-9DFAEC1E/Reykjavik-Iceland.jpg",
     continent: "Europe",
     country: "Iceland",
   },
   {
     name: "Dublin",
-    image: "https://tse1.mm.bing.net/th/id/OIP.ZwhheZdCmRN1BpIrcnthvAHaE8?cb=12&pid=Api",
+    image:
+      "https://tse1.mm.bing.net/th/id/OIP.ZwhheZdCmRN1BpIrcnthvAHaE8?cb=12&pid=Api",
     continent: "Europe",
     country: "Ireland",
   },
@@ -355,115 +405,134 @@ export const cities = [
   },
   {
     name: "Vilnius",
-    image: "https://cdn.kimkim.com/files/a/images/31fb94bb0b1840f12941e76fa12849edac09f45c/big-3bf78987ab8f6e2189fbc6788964c92a.jpg",
+    image:
+      "https://cdn.kimkim.com/files/a/images/31fb94bb0b1840f12941e76fa12849edac09f45c/big-3bf78987ab8f6e2189fbc6788964c92a.jpg",
     continent: "Europe",
     country: "Lithuania",
   },
   {
     name: "Luxembourg City",
-    image: "http://res.cloudinary.com/ybmedia/image/upload/c_crop,h_1123,w_2000,x_0,y_145/c_fill,f_auto,h_900,q_auto,w_1600/v1/m/5/3/531dd0762dac8740b4349c077925b835a0b199b7/15-things-luxembourg-according-someone-live.jpg",
+    image:
+      "http://res.cloudinary.com/ybmedia/image/upload/c_crop,h_1123,w_2000,x_0,y_145/c_fill,f_auto,h_900,q_auto,w_1600/v1/m/5/3/531dd0762dac8740b4349c077925b835a0b199b7/15-things-luxembourg-according-someone-live.jpg",
     continent: "Europe",
     country: "Luxembourg",
   },
   {
     name: "Amsterdam",
-    image: "https://www.publicdomainpictures.net/pictures/220000/velka/amsterdam-canal-1491847722vKM.jpg",
+    image:
+      "https://www.publicdomainpictures.net/pictures/220000/velka/amsterdam-canal-1491847722vKM.jpg",
     continent: "Europe",
     country: "Netherlands",
   },
   {
     name: "Oslo",
-    image: "https://www.lifeinnorway.net/wp-content/uploads/2022/12/2F69D84D-DF20-465B-BC14-103696E0BB89.jpeg",
+    image:
+      "https://www.lifeinnorway.net/wp-content/uploads/2022/12/2F69D84D-DF20-465B-BC14-103696E0BB89.jpeg",
     continent: "Europe",
     country: "Norway",
   },
   {
     name: "Warsaw",
-    image: "https://wanderingwheatleys.com/wp-content/uploads/2023/03/best-things-to-do-in-warsaw-poland-header-1800x1080.jpg",
+    image:
+      "https://wanderingwheatleys.com/wp-content/uploads/2023/03/best-things-to-do-in-warsaw-poland-header-1800x1080.jpg",
     continent: "Europe",
     country: "Poland",
   },
   {
     name: "Lisbon",
-    image: "https://www.meganstarr.com/wp-content/uploads/2022/08/Sunny-Lisbon-in-winter_2156569095.jpg",
+    image:
+      "https://www.meganstarr.com/wp-content/uploads/2022/08/Sunny-Lisbon-in-winter_2156569095.jpg",
     continent: "Europe",
     country: "Portugal",
   },
   {
     name: "Bucharest",
-    image: "https://romaniatourism.com/images/bucharest/bucharest-savings-bank.jpg",
+    image:
+      "https://romaniatourism.com/images/bucharest/bucharest-savings-bank.jpg",
     continent: "Europe",
     country: "Romania",
   },
   {
     name: "Moscow",
-    image: "https://cdn.britannica.com/83/84883-050-053834E9/Red-Square-Moscow.jpg",
+    image:
+      "https://cdn.britannica.com/83/84883-050-053834E9/Red-Square-Moscow.jpg",
     continent: "Europe",
     country: "Russia",
   },
   {
     name: "Belgrade",
-    image: "https://media.cntraveler.com/photos/58ed22a51d750d1eb85fb1a9/16:9/w_2560%2Cc_limit/belgrade-at-night-GettyImages-491523503.jpg",
+    image:
+      "https://media.cntraveler.com/photos/58ed22a51d750d1eb85fb1a9/16:9/w_2560%2Cc_limit/belgrade-at-night-GettyImages-491523503.jpg",
     continent: "Europe",
     country: "Serbia",
   },
   {
     name: "Bratislava",
-    image: "https://cdn.urlaubsguru.at/wp-content/uploads/2018/01/Bratislava-skyline-iStock_36577368-x2000.jpg",
+    image:
+      "https://cdn.urlaubsguru.at/wp-content/uploads/2018/01/Bratislava-skyline-iStock_36577368-x2000.jpg",
     continent: "Europe",
     country: "Slovakia",
   },
   {
     name: "Ljubljana",
-    image: "https://travelshelper.com/wp-content/uploads/2021/11/Ljubljana-Travel-Guide-Travel-S-Helper.jpg",
+    image:
+      "https://travelshelper.com/wp-content/uploads/2021/11/Ljubljana-Travel-Guide-Travel-S-Helper.jpg",
     continent: "Europe",
     country: "Slovenia",
   },
   {
     name: "Madrid",
-    image: "https://www.godsavethepoints.com/wp-content/uploads/2018/05/madrid.jpg",
+    image:
+      "https://www.godsavethepoints.com/wp-content/uploads/2018/05/madrid.jpg",
     continent: "Europe",
     country: "Spain",
   },
   {
     name: "Stockholm",
-    image: "https://www.worldtravelguide.net/wp-content/uploads/2018/06/shu-Europe-Sweden-Stockholm-613199033-Andrey-Shcherbukhin-2500x1045.jpg",
+    image:
+      "https://www.worldtravelguide.net/wp-content/uploads/2018/06/shu-Europe-Sweden-Stockholm-613199033-Andrey-Shcherbukhin-2500x1045.jpg",
     continent: "Europe",
     country: "Sweden",
   },
   {
     name: "Bern",
-    image: "https://www.tripsavvy.com/thmb/0O_h5vIBYEFdgTouHox6GrhzHH4=/2206x1359/filters:fill(auto,1)/Bernskyline_joedanielprice_GettyImages-6033828d47334deba499b05f5d811222.jpg",
+    image:
+      "https://www.tripsavvy.com/thmb/0O_h5vIBYEFdgTouHox6GrhzHH4=/2206x1359/filters:fill(auto,1)/Bernskyline_joedanielprice_GettyImages-6033828d47334deba499b05f5d811222.jpg",
     continent: "Europe",
     country: "Switzerland",
   },
   {
     name: "Kyiv",
-    image: "https://content.r9cdn.net/rimg/dimg/27/bb/1e63bfbb-city-15139-1645cdf896a.jpg?width=1750&height=1000&xhint=2663&yhint=911&crop=true",
+    image:
+      "https://content.r9cdn.net/rimg/dimg/27/bb/1e63bfbb-city-15139-1645cdf896a.jpg?width=1750&height=1000&xhint=2663&yhint=911&crop=true",
     continent: "Europe",
     country: "Ukraine",
   },
   {
     name: "London",
-    image: "https://i2-prod.mirror.co.uk/incoming/article28871026.ece/ALTERNATES/s1200d/0_London-at-sunset.jpg",
+    image:
+      "https://i2-prod.mirror.co.uk/incoming/article28871026.ece/ALTERNATES/s1200d/0_London-at-sunset.jpg",
     continent: "Europe",
     country: "UK",
   },
   {
     name: "Nassau",
-    image: "https://www.vincentvacations.com/sandals/images/Nassau-Bahamas-Aerial-View.jpg",
+    image:
+      "https://www.vincentvacations.com/sandals/images/Nassau-Bahamas-Aerial-View.jpg",
     continent: "North America",
     country: "Bahamas",
   },
   {
     name: "Ottawa",
-    image: "https://a.cdn-hotels.com/gdcs/production163/d857/cc29dd0e-f745-4507-80e1-6ae5a3532338.jpg",
+    image:
+      "https://a.cdn-hotels.com/gdcs/production163/d857/cc29dd0e-f745-4507-80e1-6ae5a3532338.jpg",
     continent: "North America",
     country: "Canada",
   },
   {
     name: "San José",
-    image: "https://thumbs.dreamstime.com/b/downtown-san-jose-city-skyline-cityscape-silicon-valley-california-usa-363592614.jpg",
+    image:
+      "https://www.lufthansa.com/aircore/media/mm/eyJpZGVudGlmaWVyIjo1MTM5MzcsInR5cGUiOiJhc3NldCJ9.webp",
     continent: "North America",
     country: "Costa Rica",
   },
@@ -475,25 +544,29 @@ export const cities = [
   },
   {
     name: "Guatemala City",
-    image: "https://etichotels.com/journal/wp-content/uploads/2024/01/10_Surprising_Facts_About_Guatemala_City-ETIC-Hotels-scaled.jpg",
+    image:
+      "https://etichotels.com/journal/wp-content/uploads/2024/01/10_Surprising_Facts_About_Guatemala_City-ETIC-Hotels-scaled.jpg",
     continent: "North America",
     country: "Guatemala",
   },
   {
     name: "Port-au-Prince",
-    image: "https://www.tripsavvy.com/thmb/jKl38Yg5tvvmfuff_gnOmYF5_hw=/960x636/filters:no_upscale():max_bytes(150000):strip_icc()/petionvilleportauprincehaititourismFB-56a391033df78cf7727dfbb7.jpg",
+    image:
+      "https://www.tripsavvy.com/thmb/jKl38Yg5tvvmfuff_gnOmYF5_hw=/960x636/filters:no_upscale():max_bytes(150000):strip_icc()/petionvilleportauprincehaititourismFB-56a391033df78cf7727dfbb7.jpg",
     continent: "North America",
     country: "Haiti",
   },
   {
     name: "Kingston",
-    image: "https://kingstoncityguidedtours.com/wp-content/uploads/2024/08/kingston.jpg",
+    image:
+      "https://kingstoncityguidedtours.com/wp-content/uploads/2024/08/kingston.jpg",
     continent: "North America",
     country: "Jamaica",
   },
   {
     name: "Mexico City",
-    image: "https://seekingstamps.com/wp-content/uploads/2023/04/is-mexico-city-worth-visiting-scaled.jpg",
+    image:
+      "https://seekingstamps.com/wp-content/uploads/2023/04/is-mexico-city-worth-visiting-scaled.jpg",
     continent: "North America",
     country: "Mexico",
   },
@@ -505,7 +578,8 @@ export const cities = [
   },
   {
     name: "Chicago",
-    image: "https://secretchicago.com/wp-content/uploads/2023/01/Chicago-1-scaled.jpg",
+    image:
+      "https://secretchicago.com/wp-content/uploads/2023/01/Chicago-1-scaled.jpg",
     continent: "North America",
     country: "USA",
   },
@@ -517,13 +591,15 @@ export const cities = [
   },
   {
     name: "Miami",
-    image: "https://secretmiami.com/wp-content/uploads/2022/09/jorge-coromina-2R9tyiKyBWg-unsplash-scaled.jpg",
+    image:
+      "https://secretmiami.com/wp-content/uploads/2022/09/jorge-coromina-2R9tyiKyBWg-unsplash-scaled.jpg",
     continent: "North America",
     country: "USA",
   },
   {
     name: "San Francisco",
-    image: "https://actiontourguide.com/wp-content/uploads/2021/02/SF-city-Resized-scaled.jpg",
+    image:
+      "https://actiontourguide.com/wp-content/uploads/2021/02/SF-city-Resized-scaled.jpg",
     continent: "North America",
     country: "USA",
   },
@@ -533,19 +609,21 @@ export const cities = [
     continent: "North America",
     country: "USA",
   },
- {
+  {
     name: "Buenos Aires",
-    image: "https://img.freepik.com/premium-photo/city-buenos-aires-view-obelisk_686512-109.jpg?w=2000",
+    image:
+      "https://img.freepik.com/premium-photo/city-buenos-aires-view-obelisk_686512-109.jpg?w=2000",
     continent: "South America",
     country: "Argentina",
   },
-   {
+  {
     name: "Sucre",
-    image: "https://tse2.mm.bing.net/th/id/OIP.Zt8H3TKJr7w-AiSGhzEhFgHaE8?cb=12&pid=Api",
+    image:
+      "https://tse2.mm.bing.net/th/id/OIP.Zt8H3TKJr7w-AiSGhzEhFgHaE8?cb=12&pid=Api",
     continent: "South America",
     country: "Bolivia",
   },
-    {
+  {
     name: "Brasília",
     image: "https://cdn.generationvoyage.fr/2021/02/guide-brasilia.jpg",
     continent: "South America",
@@ -553,7 +631,8 @@ export const cities = [
   },
   {
     name: "Santiago",
-    image: "https://cdn.getyourguide.com/img/location/5cced31b8e609.jpeg/88.jpg",
+    image:
+      "https://cdn.getyourguide.com/img/location/5cced31b8e609.jpeg/88.jpg",
     continent: "South America",
     country: "Chile",
   },
@@ -565,7 +644,8 @@ export const cities = [
   },
   {
     name: "Quito",
-    image: "https://www.andbeyond.com/wp-content/uploads/sites/5/Cathedral-in-Quito-Ecuador.jpg",
+    image:
+      "https://www.andbeyond.com/wp-content/uploads/sites/5/Cathedral-in-Quito-Ecuador.jpg",
     continent: "South America",
     country: "Ecuador",
   },
@@ -577,25 +657,29 @@ export const cities = [
   },
   {
     name: "Lima",
-    image: "https://www.tripsavvy.com/thmb/ZPBAV5dO-FavyHSE0oM1Gfbdxnk=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/10670145_10152754838024402_5598903197025311757_nWEB-25c0c297e2314ff2b8ecafc481e2298a.jpg",
+    image:
+      "https://www.tripsavvy.com/thmb/ZPBAV5dO-FavyHSE0oM1Gfbdxnk=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/10670145_10152754838024402_5598903197025311757_nWEB-25c0c297e2314ff2b8ecafc481e2298a.jpg",
     continent: "South America",
     country: "Peru",
   },
   {
     name: "Montevideo",
-    image: "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/64000/64780-Montevideo.jpg",
+    image:
+      "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/64000/64780-Montevideo.jpg",
     continent: "South America",
     country: "Uruguay",
   },
   {
     name: "Caracas",
-    image: "https://www.tripsavvy.com/thmb/n2WQmkqaHNq-BzRBVZNIQE_hVKM=/2289x1310/filters:fill(auto,1)/GettyImages-501861673-03562637fcef434eb02e677cd87c8a17.jpg",
+    image:
+      "https://www.tripsavvy.com/thmb/n2WQmkqaHNq-BzRBVZNIQE_hVKM=/2289x1310/filters:fill(auto,1)/GettyImages-501861673-03562637fcef434eb02e677cd87c8a17.jpg",
     continent: "South America",
     country: "Venezuela",
   },
   {
     name: "Adelaide",
-    image: "https://tse3.mm.bing.net/th/id/OIP.GXpl6PBn2ggRacyZX64fsQHaFq?cb=12&pid=Api",
+    image:
+      "https://tse3.mm.bing.net/th/id/OIP.GXpl6PBn2ggRacyZX64fsQHaFq?cb=12&pid=Api",
     continent: "Oceania",
     country: "Australia",
   },
@@ -607,7 +691,8 @@ export const cities = [
   },
   {
     name: "Canberra",
-    image: "https://www.school-news.com.au/wp-content/uploads/2018/04/AdobeStock_147800230.jpeg",
+    image:
+      "https://www.school-news.com.au/wp-content/uploads/2018/04/AdobeStock_147800230.jpeg",
     continent: "Oceania",
     country: "Australia",
   },
@@ -619,7 +704,8 @@ export const cities = [
   },
   {
     name: "Perth",
-    image: "https://images.squarespace-cdn.com/content/v1/6180a87d5280fd127caac120/1637045686933-7IUXYIHA73X1S02N2DSI/117692-56-min.jpg",
+    image:
+      "https://images.squarespace-cdn.com/content/v1/6180a87d5280fd127caac120/1637045686933-7IUXYIHA73X1S02N2DSI/117692-56-min.jpg",
     continent: "Oceania",
     country: "Australia",
   },
@@ -631,7 +717,8 @@ export const cities = [
   },
   {
     name: "Auckland",
-    image: "https://www.touristsecrets.com/wp-content/uploads/2023/08/auckland-cruise-port-things-to-do-shore-excursions-1692886512.jpg",
+    image:
+      "https://www.touristsecrets.com/wp-content/uploads/2023/08/auckland-cruise-port-things-to-do-shore-excursions-1692886512.jpg",
     continent: "Oceania",
     country: "New Zealand",
   },
