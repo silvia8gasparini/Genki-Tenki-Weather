@@ -37,17 +37,17 @@ Progetto front-end puro. Le sezioni login e account sono elementi di design dell
 
 ## 🇬🇧 English
 
-A weather web app inspired by the Ghibli universe — because even checking the forecast should feel like a story worth telling.
+A weather web app inspired by the Ghibli universe because even checking the forecast should feel like a story worth telling.
 
 Front-end project built during the React module of the EPICODE Full-Stack bootcamp, focused on real-time external API integration.
 
 ### Features
 
-- **City search** — fully functional search bar to find current weather for any capital city worldwide
-- **Continent navigation** — select a continent from the navbar, choose a country, and discover its capital's weather
-- **Continent carousels** — each continent has a dedicated section with major cities displayed in a carousel
-- **Real-time weather data** — live updates via OpenWeatherMap API
-- **Narrative design** — Ghibli-inspired interface with Totoro as your weather guide 🐾
+- **City search** —> fully functional search bar to find current weather for any capital city worldwide
+- **Continent navigation** —> select a continent from the navbar, choose a country, and discover its capital's weather
+- **Continent carousels** —> each continent has a dedicated section with major cities displayed in a carousel
+- **Real-time weather data** —> live updates via OpenWeatherMap API
+- **Narrative design** —> Ghibli-inspired interface with Totoro as your weather guide 🐾
 
 ### Tech Stack
 
