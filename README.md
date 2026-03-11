@@ -3,11 +3,6 @@
 
 ---
 
-<!-- 🇮🇹 Versione italiana -->
-<!-- 🇬🇧 English version below -->
-
----
-
 ## 🇮🇹 Italiano
 
 Una web app meteo ispirata all'universo Ghibli, pensata per trasformare anche il meteo in un'esperienza narrativa e visiva.
